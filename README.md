@@ -7,8 +7,11 @@ references primarily from [pytorch for deep learning](https://www.learnpytorch.i
 [notebook link](./1-fundamentals/1-fundamentals.ipynb)
 - tensor manipulation (matmul, mean, max, min, sum, changing tensor dtype, reshaping, stacking, squeezing, unsqueezing)
 - indexing
+- torch to numpy, numpy to torch
+- reproducibility with manual seed, random manual seed
 
 ## torch documentation
 - torch.view
 - torch.arange
 - torch.permute
+- torch.manual_seed, torch.random.manual_seed
