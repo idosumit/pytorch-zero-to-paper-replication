@@ -10,6 +10,9 @@ references primarily from [pytorch for deep learning](https://www.learnpytorch.i
 - torch to numpy, numpy to torch
 - reproducibility with manual seed, random manual seed
 
+### 2. Torch Workflow Basics
+[notebook link](./2-torch-workflow-basics/2-torch-workflow-basics.ipynb)
+
 ## torch documentation
 - torch.view
 - torch.arange
