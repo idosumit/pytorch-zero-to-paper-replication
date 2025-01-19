@@ -1,5 +1,3 @@
-# Exercise from: https://realpython.com/python3-object-oriented-programming/
-
 class Dog:
     species = "Canis familiaris"
 
